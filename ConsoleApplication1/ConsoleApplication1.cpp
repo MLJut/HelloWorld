@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    printf("Hello Mars!!"); // person 3
+    std::cout << "Hello Mars!!\n"; // person 3
+    std::cout << "Hello Galaxy!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
